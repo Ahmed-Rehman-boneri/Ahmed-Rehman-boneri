@@ -1,6 +1,6 @@
 
 
-## 📌 Github Stats
+## 📌 Github Stats.
 
 <div align="center" width="380px" >
     
